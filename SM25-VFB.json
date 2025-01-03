@@ -2427,7 +2427,7 @@
         {
             "ID": 65930,
             "Forename": "Theo",
-            "Surname": "LEUPOLD I TOMAS",
+            "Surname": "LEUPOLD TOMÁS",
             "ImageURL": "https://cdn.soccerwiki.org/images/player/65930.png"
         },
         {
@@ -8966,8 +8966,8 @@
         },
         {
             "ID": 111741,
-            "Forename": "Felix",
-            "Surname": "GÖTTLICHER",
+            "Forename": "Hans",
+            "Surname": "FELBINGER",
             "ImageURL": "https://cdn.soccerwiki.org/images/player/111741.png"
         },
         {
@@ -9644,8 +9644,8 @@
         },
         {
             "ID": 114523,
-            "Forename": "Norman",
-            "Surname": "QUINDT",
+            "Forename": "Dieter",
+            "Surname": "RUSSLER",
             "ImageURL": ""
         },
         {
@@ -16062,7 +16062,7 @@
             "ID": 2709,
             "Name": "VfB Helmbrechts",
             "ShortName": "VfB",
-            "ImageURL": "https://upload.wikimedia.org/wikipedia/de/f/f7/VfB_helmbrechts.gif"
+            "ImageURL": "https://raw.githubusercontent.com/Helmbrecht74/SM25/refs/heads/main/WappenVfBklein100.png"
         },
         {
             "ID": 2710,
